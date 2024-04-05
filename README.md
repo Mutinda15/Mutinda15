@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mutinda15
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning dart and flutter frame works.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React frame works and UI/UX 
+- 💞️ I’m looking to collaborate on  Website development  UI/UX designs
 - 📫 How to reach me ...+254769654223
 
 <!---
