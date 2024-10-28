@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mutinda15
+- 👋 Hi, I’m Shadrack a Software Developer
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React frame works and UI/UX 
-- 💞️ I’m looking to collaborate on  Website development  UI/UX designs
+- 🌱 I’m currently learning Next js  frame works and UI/UX 
+- 💞️ I’m looking to collaborate on  Front-end Technologies
 - 📫 How to reach me ...+254769654223
 
 <!---
