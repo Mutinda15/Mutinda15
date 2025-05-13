@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Shadrack a Software Developer
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Next js  frame works and UI/UX 
-- 💞️ I’m looking to collaborate on  Front-end Technologies
-- 📫 How to reach me ...+254769654223
+- 👀 I’m interested in front-end development and Mobile Development 
+- 🌱 I’m proficient in FLutter ,springboot and js 
+- 💞️ I’m looking to collaborate on mobile app  Technologies
+- 📫 How to reach me .....
+- My availability .....Remotely...
 
 <!---
 Mutinda15/Mutinda15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
